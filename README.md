@@ -11,6 +11,8 @@ pip install -r requirements.txt
 ```
 
 ## Training
+![gif of gan training](https://raw.githubusercontent.com/GANsNotGAINS/music-dcgan/master/example/animated.gif)
+
 Run with 
 ```
 python main.py
