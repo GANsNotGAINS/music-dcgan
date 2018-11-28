@@ -15,7 +15,7 @@ Changes to source:
 * Tweaked network sizes in discriminator / generator
 """
 
-input_dir_pattern = "midi24/*.png"
+input_dir_pattern = "poly24/*.png"
 output_dir = "samples/"
 
 fnames = glob.glob(input_dir_pattern)
